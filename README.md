@@ -3,8 +3,8 @@ This is a scraper which can start from a specific page, scraping outward, record
 
 ## Usage
 The scraper can only detect whether the outward page is about a person or not. Other classifications will be include in a few days.
-* The ```--person``` is to specify a person's name, which is the page name you want to go. 
-* The ```--steps``` is to specify the step you want to hop from the page you specify above.
+* ```--person``` is to specify a person's name, which is the page name you want to go. 
+* ```--steps``` is to specify the step you want to hop from the page you specify above.
 ### Example:
 ```commend line
 python3 wiki_scraper.py --person Barack_Obama --steps 2
