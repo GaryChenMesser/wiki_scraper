@@ -7,5 +7,5 @@ The scraper can only detect whether the outward page is about a person or not. O
 * The ```--steps``` is to specify the step you want to hop from the page you specify above.
 ### Example:
 ```commend line
-python3 wiki_scraper.py --person  --steps 2
+python3 wiki_scraper.py --person Barack_Obama --steps 2
 ```
