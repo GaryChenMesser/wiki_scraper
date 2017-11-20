@@ -1,5 +1,5 @@
 # wiki_scraper
-This is a scraper which can start from a specific page, scraping outward, record the network structure and finally output a gdf file describing the network relation.
+This is a scraper which can start from a specific page, scrape outward, record the network structure and finally output a gdf file describing the network relation.
 
 ## Usage
 The scraper can only detect whether the outward page is about a person or not. Other classifications will be include in a few days.
